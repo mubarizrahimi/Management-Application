@@ -27,4 +27,5 @@ Tested in Ubuntu 18,20 and 22 only
         Require valid-user
         </Directory>
 2. If you wanto change the admin user and password for registration form: Go to <Management-Application>/register/ and command this.
-sudo htpasswd -c .htpasswd <New_User>
+        sudo htpasswd -c .htpasswd <New_User>
+3. Feel free to change the Campany name and logo
