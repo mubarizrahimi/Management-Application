@@ -1,7 +1,7 @@
 Management Application
 
 This is a web application to help you manage your documents, contracts and equipment for a small business.
-Tested in Ubuntu 18,20 and 22 only
+Tested only in Ubuntu 18,20 and 22 
 
 
 
